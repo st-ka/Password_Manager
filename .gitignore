@@ -1,0 +1,6 @@
+# Dev
+*.pyc
+*.pye
+*cache*
+venv/
+database.json
