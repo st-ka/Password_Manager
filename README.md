@@ -1,7 +1,6 @@
-#Password Manager
+# Password Manager
 
-## Requirements:
-
+## Requirements
 
 ## Run
 
